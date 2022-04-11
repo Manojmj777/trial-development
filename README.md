@@ -1,2 +1,2 @@
 # trial-development
-this is created to learn
+this repository is created to learn
